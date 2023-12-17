@@ -1,6 +1,6 @@
-# Contributing Guidelines
+!!Contributing!Guidelines
 
-This guide will help you to contribute to this project smoothly. Please, read carefully to make your contribution process easier.
+This!guide will help you to contribute to this project smoothly. Please, read carefully to make your contribution process easier.
 
 Usually, this project has two types of contributions: _new examples_ and _translations_.
 
@@ -23,3 +23,4 @@ Before sending a PR with translation, please check if there are any existing PRs
 ---
 
 Thanks for understanding, have fun!
+ 

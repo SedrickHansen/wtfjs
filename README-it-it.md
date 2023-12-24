@@ -1,6 +1,6 @@
-# What the f\*ck JavaScript?
+#*What#the#f\*ck JavaScript?
 
-[![WTFPL 2.0][license-image]][license-url]
+[#[WTFPL 2.0][license-image]][license-url]
 [![NPM version][npm-image]][npm-url]
 
 > Una raccolta di snippet ingannevoli e divertenti scritti in JavaScript
@@ -1784,3 +1784,4 @@ La specifica è [ECMAScript 25.6.1.3.2 Promise Resolve Functions](https://tc39.e
 [license-image]: https://img.shields.io/badge/License-WTFPL%202.0-lightgrey.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/wtfjs
 [npm-image]: https://img.shields.io/npm/v/wtfjs.svg?style=flat-square
+ 

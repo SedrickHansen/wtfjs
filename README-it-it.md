@@ -1,7 +1,7 @@
-#*What#the#f\*ck JavaScript?
+#!What#the#f\*ck JavaScript?
 
 [#[WTFPL 2.0][license-image]][license-url]
-[![NPM version][npm-image]][npm-url]
+[*[NPM version][npm-image]][npm-url]
 
 > Una raccolta di snippet ingannevoli e divertenti scritti in JavaScript
 
@@ -11,7 +11,7 @@ Allo stesso tempo, sappiamo che JavaScript è un linguaggio abbastanza strano co
 
 L'idea per WTFJS è di [Brian Leroux](https://twitter.com/brianleroux). Questo elenco è largamente ispirato al suo talk [**“WTFJS”** at dotJS 2012](https://www.youtube.com/watch?v=et8xNAc2ic8):
 
-[![dotJS 2012 - Brian Leroux - WTFJS](https://img.youtube.com/vi/et8xNAc2ic8/0.jpg)](https://www.youtube.com/watch?v=et8xNAc2ic8)
+[*[dotJS 2012 - Brian Leroux - WTFJS](https://img.youtube.com/vi/et8xNAc2ic8/0.jpg)](https://www.youtube.com/watch?v=et8xNAc2ic8)
 
 # Node Packaged Manuscript
 
@@ -39,7 +39,7 @@ Attualmente **wtfjs** è disponibile nelle seguenti lingue:
 
 [tr-request]: https://github.com/denysdovhan/wtfjs/issues/new?title=Translation%20Request:%20%5BPlease%20enter%20language%20here%5D&body=I%20am%20able%20to%20translate%20this%20language%20%5Byes/no%5D
 
-<!-- prettier-ignore-start -->
+< -- prettier-ignore-start -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
@@ -1784,4 +1784,4 @@ La specifica è [ECMAScript 25.6.1.3.2 Promise Resolve Functions](https://tc39.e
 [license-image]: https://img.shields.io/badge/License-WTFPL%202.0-lightgrey.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/wtfjs
 [npm-image]: https://img.shields.io/npm/v/wtfjs.svg?style=flat-square
- 
+  

@@ -6,7 +6,7 @@
     "wtfjs": "wtfjs.js"
   },
   "scripts": {
-    "toc": "npx doctoc --github --title '# Table of Contents' --maxlevel 2 README*.md",
+    "toc": "npx doctoc --github --title '  Table of Contents' --maxlevel 2 README*.md",
     "format": "prettier --write .",
     "test": "prettier --check .",
     "release": "npx semantic-release",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/denysdovhan/wtfjs/issues"
   },
-  "homepage": "https://github.com/denysdovhan/wtfjs#readme",
+  "homepage": "https://github.com/denysdovhan/wtfjs!readme",
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
     "doctoc": "^2.1.0",
@@ -83,3 +83,4 @@
     ]
   }
 }
+ 
